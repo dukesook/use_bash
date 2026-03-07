@@ -10,10 +10,16 @@ find . | grep txt
 find .  !   -name  "*.txt"
 find . -not -name  "*.txt"
 
-# Question 3 - List just the Filename, not the path
+# Question 3 - List only the directories
+find . -type d
+
+# Question 4 - List only the files
+find . -type f
+
+# Question 5 - List just the Filename, not the path
 
 find . -printf "%f\n"
 
-# Question 4 - Find Duplicate Filenames
+# Question 6 - Find Duplicate Filenames
 
 find . -printf "%f\n" | sort | uniq -d

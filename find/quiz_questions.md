@@ -8,7 +8,13 @@ The `find` command:
 - Find everything except .txt files
 
 ## Question 3
-- List just the Filename, not the path
+- List only the directories
 
 ## Question 4
+- List only the files
+
+## Question 5
+- List just the Filename, not the path
+
+## Question 6
 - Find all Duplicate Files
