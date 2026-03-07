@@ -43,8 +43,3 @@ Hackerrank: Read 3 numbers from stdin and print either:
 
 Print all duplicate lines of a file
 
-## Question 9
-
-The `find` command:
-- find all .txt files
-- every everything that's NOT A .txt file
