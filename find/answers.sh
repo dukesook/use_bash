@@ -23,3 +23,7 @@ find . -printf "%f\n"
 # Question 6 - Find Duplicate Filenames
 
 find . -printf "%f\n" | sort | uniq -d
+
+# Question 7 - Find files > 1Gb
+
+find . -size +1G
