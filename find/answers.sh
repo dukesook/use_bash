@@ -27,3 +27,7 @@ find . -printf "%f\n" | sort | uniq -d
 # Question 7 - Find files > 1Gb
 
 find . -size +1G
+
+# Question 8 - Execute a command on each file found
+
+find . -exec ls -l {} \;
