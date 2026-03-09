@@ -29,3 +29,7 @@ The `find` command:
 ## Question 7
 
 - Find files > 1Gb
+
+## Question 8
+
+- Execute a command on each file found
