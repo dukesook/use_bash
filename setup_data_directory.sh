@@ -20,3 +20,34 @@ touch data/subdir/image1.jpg
 touch data/subdir/document3.pdf
 touch data/subdir/image3.png
 
+touch data/duplicates.txt
+echo "one
+two
+three
+four
+
+four
+five
+size
+seven
+eight
+eight
+nine
+ten
+One
+Two
+Three
+Three
+1
+2
+3
+4
+55
+55
+66
+66
+77
+77
+whitespace
+whitespace 
+whitespace  " > data/duplicates.txt
