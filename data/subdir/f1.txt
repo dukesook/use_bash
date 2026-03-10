@@ -1,0 +1,4 @@
+there is a foo here too
+document1.pdf  document2.pdf  document3.pdf  duplicates.txt  f1.txt  f2.txt  f3.txt  image1.jpg  image1.png  image2.jpg  image2.png  image3.jpg  image3.png  subdir  utils.ts
+
+"Ammunition" is derived from the 17th-century French term la munition, which was mistakenly anglicized by soldiers as l'amunition and eventually adopted into English, according to the Online Etymology Dictionary. It is rooted in the Latin munitionem, meaning "a fortifying" or to fortify/defend.
