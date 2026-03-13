@@ -50,3 +50,7 @@ Why aren't arrays commonly used?
 
 - Small script should avoid arrays
 - complex scripts should use python
+
+
+# TODOs
+xargs, awk, sed, watch, git
