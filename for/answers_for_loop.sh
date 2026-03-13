@@ -13,3 +13,9 @@ exit 0
 for i in {1..100}; do
   echo "$i";
 done
+
+# Question 3 - Change all .heic to .heif
+
+for f in ./*.heic ; do
+  mv "$f" "${f%.heic}.heif"
+done

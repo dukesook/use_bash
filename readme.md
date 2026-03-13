@@ -10,7 +10,11 @@ Change the file extension on every file in a directory.
 
 ## Questions #3
 
-Use what `:-` operator
+Why aren't arrays commonly used?
+- The Unix philosophy is to process streams of text and not use data structures
+
+- Small script should avoid arrays
+- complex scripts should use python
 
 ## Question #4
 
@@ -43,14 +47,8 @@ Hackerrank: Read 3 numbers from stdin and print either:
 
 Print all duplicate lines of a file
 
-## Question 9
 
-Why aren't arrays commonly used?
-- The Unix philosophy is to process streams of text and not use data structures
-
-- Small script should avoid arrays
-- complex scripts should use python
 
 
 # TODOs
-xargs, awk, sed, watch, git
+xargs, awk, sed, watch, git, glob patterns
