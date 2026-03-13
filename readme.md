@@ -2,7 +2,7 @@
 
 ## Question #1
 
-Echo numbers 1 to 100
+View a large file interactively (scroll up/down)
 
 ## Question #2
 
