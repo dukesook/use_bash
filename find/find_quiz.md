@@ -24,11 +24,11 @@ The `find` command:
 
 ## Question 6
 
-- Find all Duplicate Files
+- Find Duplicate Filenames
 
 ## Question 7
 
-- Find files > 1Gb
+- Find files > 1 Kb, Mb, or Gb
 
 ## Question 8
 
