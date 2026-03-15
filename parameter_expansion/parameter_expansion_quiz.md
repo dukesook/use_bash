@@ -4,26 +4,24 @@ Remove the .txt file extension
 
 ## Question 2
 
-Remove the directory from a path
+Get the filename from a path
 
 ## Question 3
 
-Replace Text inside of a variable
+Get the length of a string
 
 ## Question 4
 
-Default variables for missing parameter
+Get the first three characters
+
 
 ## Question 5
 
-Length of a variable
+Get the last three character
 
-## Question 6
 
-get the Substring
+# Question 6
 
-## Question 7
+Replace text inside string
 
-convert case
 
-todo: :- vs :=
