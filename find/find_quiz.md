@@ -33,3 +33,18 @@ The `find` command:
 ## Question 8
 
 - Execute a command on each file found
+  - Delete
+  - Backup
+  - Relocate
+  - change permissions
+  - grep (search for text)
+  - count lines
+
+
+# TODO:
+
+Exclude a directory
+
+\; = Run the command once per file.
+
++ = Run the command with many files at once (faster).
