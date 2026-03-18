@@ -1,3 +1,7 @@
+# Use Bash
+
+In the age of AI, the goal is not to master bash scripts, but rather for frequently used command to increase productivity
+
 # Quiz
 
 ## Question #1

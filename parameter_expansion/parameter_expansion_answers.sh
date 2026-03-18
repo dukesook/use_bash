@@ -25,3 +25,9 @@ echo "${x: -3}"
 # Question 6 - Replace Text inside of a variable
 
 echo ${x/file/doc}
+
+# Cheat Sheet
+${var#pattern}
+${var##pattern}
+${var%pattern}
+${var%%pattern}

@@ -24,4 +24,3 @@ Get the last three character
 
 Replace text inside string
 
-
