@@ -40,6 +40,13 @@ The `find` command:
   - grep (search for text)
   - count lines
 
+## Question 9
+
+find the largest file
+
+## Question 10
+
+use find -printf to get the file name, path, and size
 
 # TODO:
 
@@ -48,3 +55,4 @@ Exclude a directory
 \; = Run the command once per file.
 
 + = Run the command with many files at once (faster).
+

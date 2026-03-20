@@ -2,6 +2,8 @@
 
 In the age of AI, the goal is not to master bash scripts, but rather for frequently used command to increase productivity
 
+There are many ways of doing the same thing. Instead of learning them all, you just need to know one.
+
 # Quiz
 
 ## Question #1
@@ -53,6 +55,7 @@ Print all duplicate lines of a file
 
 
 
-
 # TODOs
-xargs, awk, sed, watch, git, glob patterns
+xargs, watch, git, glob patterns, functions
+sed - stream editing
+awk - columns
