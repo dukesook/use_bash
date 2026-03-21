@@ -57,6 +57,9 @@ Print all duplicate lines of a file
 find all .jpg AND .heif files
 find everything expect .txt files
 
+# Question 10
+Print the first 5 lines of a file
+
 
 # TODOs
 xargs, watch, git, glob patterns, functions
